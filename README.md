@@ -1,7 +1,11 @@
-# Club Auto 
+# CLUB AUTO
 
-Projet fil rouge n°2 - Coder le site web en totalité selon la maquette graphique présentée :
+#### Projet fil rouge n°2 
+
+Coder l'intégralité du site web CLUB AUTO selon la maquette graphique fournie.
 
 ####
 
-[![Image](https://i.goopics.net/3ioqkw.png)](https://goopics.net/i/3ioqkw)
+#### Lien de la maquette graphique :
+
+https://i.goopics.net/3ioqkw.png
