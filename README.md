@@ -10,4 +10,4 @@ Stack : HTML, CSS, JavaScript.
 
 #### Lien de la maquette graphique :
 
-Page d'accueim : https://i.goopics.net/3ioqkw.png
+Page d'accueil : https://i.goopics.net/3ioqkw.png
