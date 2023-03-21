@@ -331,15 +331,122 @@ z-index: 1;
 
 /* ---------------- SECTION 3 - POURQUOI NOUS CHOISIR, CLUB AUTO ---------------- */
 
-/* BANNER */
+/* WHITE BANNER */
 
 
+.section-3 .white-banner {
+    background-color: #fff;
+    color: #232628;
+    padding: 5%;
+}
 
+.white-banner-items ul {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 5%;
+    margin: 2%;
+}
 
+.white-banner-items p {
+    font-size: 13px;
+    color: #4346489b;
+    font-weight: 550;
+    margin-top: 10px;
+}
 
+.white-banner-items h5 {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-family: 'Montserrat', 'sans serif';
+}
 
+.white-banner h1 {
+    font-family: 'Montserrat', 'sans serif';
+    text-align: center;
+}
 
+.white-banner button {
+    cursor: pointer;
+    margin-left: 40%;
+    color: #FFFFFF;
+    background-color: #6C98E1;
+    padding: 15px 27px 15px 27px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 1px 2px 0 0px #6c99e1b8;
+}
 
+.white-banner-items .list-1 {
+    background-image: url(ressources/icone-doc-orange.png);
+    background-size: 35px;
+    padding-left: 40px;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+
+.white-banner-items .list-2 {
+    background-image: url(ressources/icone-doc-orange.png);
+    background-size: 35px;
+    padding-left: 40px;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+
+.white-banner-items .list-3 {
+    background-image: url(ressources/icone-doc-orange.png);
+    background-size: 35px;
+    padding-left: 40px;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.white-banner-items .list-4 {
+    background-image: url(ressources/icone-doc-orange.png);
+    background-size: 35px;
+    padding-left: 40px;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+
+/* CAR BANNER */
+
+.section-3 .car-banner {
+    background-image: url(ressources/vehicule3.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+    max-width: 100vw;
+}
+
+.car-banner .yellow-box {
+    background-color: #fab637e0;
+    width: 45%;
+    padding: 5%;
+    margin-left:6%;
+}
+
+.yellow-box h1 {
+    font-family: 'Montserrat', 'sans serif';
+    text-transform: uppercase;
+}
+
+.yellow-box h1 span {
+    color: #ffff;
+}
+
+.yellow-box p {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
 
 /* ---------------- FOOTER ---------------- */
+
+footer {
+    background-color: #232628;
+    padding: 10%;
+}
 
