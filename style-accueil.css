@@ -31,7 +31,7 @@ header {
 }
 
 .head-banner ul {
-    display: flex; 
+    display: flex;
     justify-content: center;
     font-size: 12px;
 }
@@ -50,7 +50,7 @@ header {
     background-position: 0 0;
     background-repeat: no-repeat;
 }
- 
+
 .head-banner .bloc-2 {
     background-image: url(ressources/icone-adresse.png);
     background-size: 35px;
@@ -186,7 +186,7 @@ z-index: 1;
 
 .section-1-blocs img {
     width: 100%;
-} 
+}
 
 .section-1 .bloc-3 h2 {
     text-transform: uppercase;
@@ -262,21 +262,22 @@ z-index: 1;
     margin: 15px 20px 20px 0;
 }
 
-/* VEHICULES RECENTS */
+/* PARTIE VEHICULES RECENTS */
 
 .section-2-cars {
     background-color: #232628;
+    padding-bottom: 5%;
 }
 
 .section-2-cars .cars {
     display: flex;
-    flex-direction: row;
-    padding: 0 125px 125px 125px;
+    flex-direction:row;
+    justify-content: center;
+    gap: 30px;
 }
 
 .cars img {
-    width: 350px;
-    margin: 0 10px 0 25px;
+    width: 22rem;
 }
 
 .section-2-cars h1 {
@@ -289,23 +290,25 @@ z-index: 1;
 
 .section-2-cars .car1, .car2, .car3 {
     border-top: 3px solid #CC6119;
-    padding-top: 40px; 
-    background-color: #FFFFFF;
+    padding-top: 40px;
 }
 
 .cars .car-title {
     background: #434648;
-    margin: 6px 8px 0 28px;
-    padding: 20px;
     display: flex;
     flex-direction: row;
+    align-items: center;
+    margin-top: 1%;
+    padding: 3%;
 }
 
 .cars h4 {
     color: #FFFFFF;
+    cursor: pointer;
     text-transform: uppercase;
+    text-align: left;
+    padding: 15px;
     border-bottom: 1px solid #6e727585;
-    text-align: center;
 }
 
 .car3 span {
@@ -315,14 +318,16 @@ z-index: 1;
 }
 
 .cars button {
+    cursor: pointer;
     background-color: #6C98E1;
     color: #FFFFFF;
     font-weight: bold;
     font-size: 15px;
     font-family: 'Montserrat', 'sans serif';
-    margin: 5px;
-    padding: 3%;
+    margin-left: auto;
+    padding: 10px;
 }
+
 
 /* ---------------- SECTION 3 - POURQUOI NOUS CHOISIR, CLUB AUTO ---------------- */
 
