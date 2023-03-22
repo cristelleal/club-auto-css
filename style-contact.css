@@ -91,7 +91,6 @@ header {
     margin-right: 12px;
 }
 
-
 /* NAVBAR */
 
 .navbar {
@@ -138,4 +137,151 @@ header {
     width: 35px;
     cursor: pointer;
 }
+
+/* ---------------- SECTION CONTACT ---------------- */
+
+main .image-background {
+    background-image: url(ressources/vehicule3.jpg);
+    position: relative;
+    z-index: 1;
+    min-width: 100vw;
+    height: 38vh;
+}
+
+main .white-background {
+    background-color: #FFFFFF;
+    padding: 100px;
+    min-width: 100vw;
+    min-height: 40vh;
+}
+
+main .contact-form {
+    color: #232628;
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffff;
+    padding: 5%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.contact-form h1 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', 'sans serif';   
+    padding-bottom: 5%;
+}
+
+.contact-form input {
+    font-family: 'Open sans', 'sans serif';
+    background-color: #ECEFF3;
+    width: 17vw;
+    padding: 4.5%;
+    margin: 15px 0 15px 0;
+}
+
+form .container-form {
+    display: flex;
+    gap: 20px;
+}
+
+form textarea {
+    padding: 5%;
+    background-color: #ECEFF3;
+    width: 17vw;
+    height: 16.7vh;
+    margin: 15px 0 15px 0;
+}
+
+form button {
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: #6C98E1;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 12px;
+    border-radius: 3px;
+    box-shadow: 0 1.5px 0 0px #294c80b8;
+    width: 8vw;
+}
+
+/* ---------------- FOOTER ---------------- */
+
+footer {
+    background-color: #232628;
+    padding: 4%;
+}
+
+.footer-items {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #6e727585;
+}
+
+.footer-items ul {
+    color: #9da0a4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+}
+
+.footer-items h5 {
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.footer-items h5 span {
+    color: #6C98E1;
+}
+
+.footer-items .days {
+    font-weight: bold;
+}
+
+.footer-items .hours {
+    color: #ffff;
+}
+
+.footer-icons {
+    display: flex;
+    flex-direction: row;
+    gap: 3%;
+}
+
+.footer-items img {
+    background-color: #ffffff18;
+    border-radius: 3px;
+    padding: 2%;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.footer-items p {
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+footer input#email {
+    cursor: pointer;
+    padding: 8px; 
+}
+
+footer input#send {
+    padding: 7px;
+    background-color: #ffffff18;
+    cursor: pointer;
+}
+
+footer .copyright {
+    margin-top: 30px;
+    color: #9da0a4;
+    font-size: 13px;
+    text-align: center;
+}
+
 
