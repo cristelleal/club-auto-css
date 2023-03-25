@@ -120,6 +120,10 @@ header {
     padding: 12px;
 }
 
+.navbar li a:link {
+    color: #232628;
+}
+
 .navbar li a:visited {
     color: #232628;
 }

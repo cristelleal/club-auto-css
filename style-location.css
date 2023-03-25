@@ -144,7 +144,7 @@ header {
 
 /* ---------------- BACKGROUND ---------------- */
 
-.vente-background {
+.location-background {
     background-image: url(ressources/vente-location.jpg);
     background-position: center;
     position: relative;
@@ -154,13 +154,13 @@ header {
     opacity: 70%;
 }
 
-.vente-background h1 {
+.location-background h1 {
     text-transform: uppercase;
     color: white;
     padding: 80px;
 }
 
-/* ---------------- VENTE SECTION ---------------- */
+/* ---------------- LOCATION SECTION ---------------- */
 
 main {
     background-color: #FFFFFF;
@@ -206,7 +206,7 @@ main {
     color: #FFFFFF;
     font-weight: bold;
     font-size: 22px;
-    padding: 2.5% 2% 2.5% 6.5%;
+    padding: 1.5% 2% 1.5% 6.5%;
     margin-left: auto;
 }
 
