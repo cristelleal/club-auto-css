@@ -3,8 +3,11 @@
 #### Projet fil rouge n°2 
 
 Réaliser en 💫 CSS 💫 l'intégralité du site web CLUB AUTO 
+<br>
 (maquette graphique fournie)
+<br>
 Icônes non fournies 
+<br>
 Stack : HTML, CSS, JS
 
 #### Lien du projet : 
