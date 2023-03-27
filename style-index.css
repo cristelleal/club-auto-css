@@ -512,19 +512,6 @@ footer .copyright {
         display: none;
     }
 
-    .navbar li a:link {
-        color: #232628;
-    }
-
-    .navbar li a:visited {
-        color: #232628;
-    }
-
-    .navbar li a:hover {
-       background-color: #CC6119;
-       color: #FFFFFF;
-    }
-
     .hamburger-menu {
         display: block;
         top: 30px;
@@ -544,13 +531,12 @@ footer .copyright {
 
     .navbar .nav-links.active ul {
         flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        padding: 3%;
+        padding: 0;
+        margin: 0;
     }
 
     .navbar .nav-links.active ul li a {
-        font-size: 1rem;
+        font-size: 0.75rem;
     }
 
     /* SECTION 1 */
@@ -597,6 +583,10 @@ footer .copyright {
         padding-bottom: 2%;
     }
 
+    .cars .car2,.car3 {
+        display: none;
+    }
+
     /* SECTION 3 */
 
     .section-3 .white-banner {
@@ -617,7 +607,7 @@ footer .copyright {
     .section-3 .white-banner ul li {
         background-image: url(ressources/icone-doc-orange.png);
         background-size: 60px;
-        padding-left: 13vw;
+        padding-left: 18vw;
         background-position:0 0;
         background-repeat: no-repeat;
     }
