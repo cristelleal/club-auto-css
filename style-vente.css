@@ -420,7 +420,6 @@ footer .copyright {
     
         .navbar .nav-links.active ul {
             flex-direction: column;
-            flex-direction: column;
             padding: 0;
             margin: 0;
         }
