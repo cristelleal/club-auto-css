@@ -166,7 +166,7 @@ main .contact-form {
     z-index: 2;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -42%);
     background-color: #ffff;
     padding: 5%;
     border-radius: 5px;
@@ -376,11 +376,12 @@ footer .copyright {
         }
 
         main .contact-form {
-            top: 100%;
+            top: 50%;
             left: 50%;
+            transform: translate(-50%, -10%);
             padding: 10%;
         }
-
+        
         .contact-form h1 {
             padding-bottom: 6vh;
         }
