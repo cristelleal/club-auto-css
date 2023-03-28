@@ -12,10 +12,7 @@ Stack : HTML, CSS, JS
 
 #### Lien du projet : 
 
-:arrow_forward: https://club-auto-css.netlify.app/
-<br>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c454474-dc4e-4837-9c55-29fa825f9d7d/deploy-status)](https://app.netlify.com/sites/club-auto-css/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c454474-dc4e-4837-9c55-29fa825f9d7d/deploy-status)](https://app.netlify.com/sites/club-auto-css/deploys) https://club-auto-css.netlify.app/
 
 #### Liens de la maquette graphique :
 

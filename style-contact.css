@@ -108,7 +108,7 @@ header {
     text-transform: uppercase;
     color: #232628;
     position:absolute;
-    z-index: 2;
+    z-index: 3;
 }
 
 .navbar .nav-links ul {
@@ -145,6 +145,8 @@ header {
 
 main .image-background {
     background-image: url(ressources/vehicule3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
     z-index: 1;
     min-width: 100vw;
