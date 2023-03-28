@@ -551,6 +551,7 @@ footer .copyright {
 
     .head-banner .bloc-2 {
         margin-right: auto;
+        color: #FFFFFF;
     }
 
     .section-1-blocs {
@@ -594,8 +595,7 @@ footer .copyright {
     /* SECTION 3 */
 
     .section-3 .white-banner {
-        padding: 10% 18% 10% 18%;
-        margin: 0;
+        padding: 10%;
     }
 
     .section-3 .white-banner h1 {
