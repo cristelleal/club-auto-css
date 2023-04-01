@@ -12,6 +12,7 @@ Icônes non fournies
 #### Lien du projet : 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/21d3f9eb-5c0b-41ef-ad2a-0e6246e40ad6/deploy-status)](https://app.netlify.com/sites/club-auto-css/deploys) 
+https://club-auto-css.netlify.app/
 
 #### Liens de la maquette graphique :
 
